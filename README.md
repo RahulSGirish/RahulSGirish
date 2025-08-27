@@ -51,7 +51,7 @@
 
 ## 🏆 GitHub Profile Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahulSGirish&theme=radical&margin-w=10&margin-h=10&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulsgirish" alt="trophies"/>
 </p>
 
 ---
