@@ -50,7 +50,7 @@
 ---
 
 ## 🏆 GitHub Profile Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=RahulSGirish&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahulsgirish&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
